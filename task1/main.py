@@ -15,7 +15,7 @@ def task2():
         print(item)
 
 
-def task3():
+def ""():
     for i in range(len(list_with_generated)):
         print(f'start brute force data for  {list_of_keys_size[i]} bytes')
         time_start = datetime.now()
